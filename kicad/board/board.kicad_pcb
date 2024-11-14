@@ -631,7 +631,7 @@
 			(uuid "e2215a6f-7a7a-468d-925a-e39ebf0e2c45")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -1215,7 +1215,7 @@
 			(uuid "e7731345-d364-459e-82f4-54dadc5fe28d")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -1299,7 +1299,7 @@
 		(at 0 -30.5)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "REF**"
+		(property "Reference" "H3"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "7a3b3e48-3691-482d-a753-9a8cea6b47db")
@@ -1908,7 +1908,7 @@
 			(uuid "d4b4b64d-a353-4a67-ba2b-031f17073480")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -3368,7 +3368,7 @@
 			(uuid "963eb45c-f4fb-4ca7-9087-d0f7ec491d84")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -3954,7 +3954,7 @@
 			(uuid "6ef824fa-ec56-4e5e-9b3e-6aed9debe57e")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -4538,7 +4538,7 @@
 			(uuid "1181f154-5f2b-4204-b53a-9d750ceaecf2")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -4621,7 +4621,7 @@
 		(uuid "7599b318-6bf2-49d1-9536-9e706c2a0bae")
 		(at 19.610296 -8.88183 -5)
 		(property "Reference" "S4"
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0413e89a-d85c-4059-bd21-9ae3fa6dcc2f")
@@ -4633,7 +4633,7 @@
 			)
 		)
 		(property "Value" "SW_Push_45deg"
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4e288faa-b7b2-46b0-9762-77d1423b70ca")
@@ -4645,7 +4645,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "12b12160-bbd9-4dce-b6a0-54341b109c04")
@@ -4657,7 +4657,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b79b5725-09e6-4158-b8b9-f10ace976d73")
@@ -4669,7 +4669,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bce3f6e9-c432-467a-b8ca-d09ec390140c")
@@ -4832,7 +4832,7 @@
 			(uuid "320d44c2-132e-4dbc-80f3-19dec097896e")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -5416,7 +5416,7 @@
 			(uuid "f1b0be17-4e23-4cc2-8cff-1c25f4942c11")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -5790,7 +5790,7 @@
 		(at 99.201432 35.06305)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "REF**"
+		(property "Reference" "H1"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "129fc92b-8d64-4065-a497-6ec721b28c4d")
@@ -5889,7 +5889,7 @@
 			(at 0 0)
 			(size 2.2 2.2)
 			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
+			(layers "F&B.Cu" "*.Mask")
 			(uuid "98872c45-6878-4ca2-bed7-883109d87ebe")
 		)
 	)
@@ -6109,7 +6109,7 @@
 			(uuid "ef91e082-50fe-4261-acbd-e2711b6a51f0")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -6216,7 +6216,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5d974076-7265-423e-92b4-c29673a7e544")
@@ -6228,7 +6228,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8496e4b-a4f0-40f7-b36d-2f14349a0afe")
@@ -6240,7 +6240,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -5)
+			(at 0 0 175)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8596833d-1053-4896-8af4-587154978313")
@@ -6671,7 +6671,7 @@
 			(uuid "fb296dbf-14aa-448b-8955-e5d8f4e12859")
 		)
 		(pad "1" smd custom
-			(at -4.775001 -5.08 355)
+			(at -4.775002 -5.08 355)
 			(size 0.2 0.2)
 			(layers "B.Cu" "B.Mask")
 			(net 47 "P1")
@@ -6796,7 +6796,7 @@
 			(uuid "621aa984-2b0f-4768-8a05-b57cefc7aa2c")
 		)
 		(pad "2" thru_hole circle
-			(at -3.262001 -2.54)
+			(at -3.262002 -2.54)
 			(size 0.8 0.8)
 			(drill 0.4)
 			(layers "*.Cu" "*.Mask")
@@ -7018,7 +7018,7 @@
 			(uuid "e8dc552f-4053-4d51-941e-6d770b725679")
 		)
 		(pad "12" smd custom
-			(at -4.775001 -5.08 355)
+			(at -4.775002 -5.08 355)
 			(size 0.2 0.2)
 			(layers "F.Cu" "F.Mask")
 			(net 49 "GND")
@@ -7232,7 +7232,7 @@
 		(at 75.801592 -31.570775)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "REF**"
+		(property "Reference" "H2"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "07dfeaa1-10fe-46cd-a08a-dab952372f35")
@@ -8715,7 +8715,7 @@
 			(uuid "45a15447-8608-48ce-8f55-9bfea757345b")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -9383,7 +9383,7 @@
 		(at 0 5.5)
 		(descr "Mounting Hole 2.2mm, no annular, M2")
 		(tags "mounting hole 2.2mm no annular m2")
-		(property "Reference" "REF**"
+		(property "Reference" "H4"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "efd59bc0-f764-42b7-822a-883fa2a76c6d")
@@ -9702,7 +9702,7 @@
 			(uuid "cc3a8452-c239-4772-a5b2-bcbe7680c82a")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -10866,7 +10866,7 @@
 			(uuid "8b4afded-fd15-4cc3-a1b0-d487803d2e30")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -12618,7 +12618,7 @@
 			(uuid "62f83566-0766-4646-af76-f2d4b08f473e")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
